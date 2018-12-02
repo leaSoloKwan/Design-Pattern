@@ -1,5 +1,5 @@
 
-title: QCM Pattern Null Object
+[title:] QCM Pattern Null Object
 ?[Nul Objet peut être consideré comme un cas particulier de ?]
 -[ ] There is no answer to that!
 -[x ] State Pattern et Strategy Pattern
