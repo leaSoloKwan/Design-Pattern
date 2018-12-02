@@ -14,7 +14,7 @@
 -[x]Car les objets nuls ont un comportement prévisible et n'auront pas d'effets secondaires puisque ils ne font rien
 -[]
 -[] 
--[ ]
+-[]
 
 ?[Lesquelles de cest méthodes permettent d'éviter l'erreur NullPointerException en java]
 -[x]Lever des exceptions
@@ -23,7 +23,7 @@
 -[]Aucune des réponses précédentes
 
 ?[Le pattern Null Object fait-i parti du Gof ?]
--[Non ]
+-[]Non
 -[x]Oui
 
 
