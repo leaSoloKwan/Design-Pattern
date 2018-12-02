@@ -14,7 +14,7 @@
 ?[Pourquoi utiliser des objets nuls plutôt que utiliser la référence "null"?]
 -[x]Car les objets nuls ont un comportement prévisible et n'auront pas d'effets secondaires puisque ils ne font rien.
 -[]Car les objets nuls permettent une meilleure lisibilité et compréhension du code.
--[] Cela permet d'éviter l'erreur NullPointerException.
+-[x] Cela permet d'éviter l'erreur NullPointerException.
 
 
 ?[Le pattern Null Object fait-il parti du Gof ?]
